@@ -1,0 +1,28 @@
+{
+  "name": "s2wb43nagulapally",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.3.4",
+    "express": "^4.17.3",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhuri221998/s2wb43nagulapally.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhuri221998/s2wb43nagulapally/issues"
+  },
+  "homepage": "https://github.com/Madhuri221998/s2wb43nagulapally#readme",
+  "description": ""
+}
